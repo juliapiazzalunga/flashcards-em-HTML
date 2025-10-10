@@ -6,7 +6,7 @@ criaCartão(
 criaCartão(
     'Geografia',
     'Qual a capital da França?',
-    'A capital da frança é paris'
+    'A capital da França é Paris'
 )
 criaCartão(
     'Programação',
